@@ -1,1 +1,1 @@
-open excell file with name file.elxs
+open excell file with name file.xlxs
